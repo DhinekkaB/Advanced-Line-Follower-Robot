@@ -1,4 +1,4 @@
-# 🛤️ Part 2: Line Sensor Array Testing
+# 🛤️ Line Sensor Array Testing
 
 ## Smart Elex RLS-08 Analog & Digital Sensor Calibration
 
